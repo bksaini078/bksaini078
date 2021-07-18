@@ -11,11 +11,11 @@
 ### Connect with me:
 
 [<img align="left" alt="bksaini" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bksaini | Medium" width="20px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png"/>][Medium]
+[<img align="left" alt="bksaini | Medium" width="22px" src="https://user-images.githubusercontent.com/6636473/31627355-e10142ba-b261-11e7-851a-6c76da975717.png"/>][Medium]
 [<img align="left" alt="bksaini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-# 📗 Medium Article
+### 📗 Medium Article
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Different Statistical Test With Python Code](https://bksaini078.medium.com/understanding-different-statistical-test-with-python-code-df517683260b?source=rss-532d6d05dcee------2)
 - [Data Preprocessing and EDA for Natural Language Processing.](https://medium.com/geekculture/data-preprocessing-and-eda-for-natural-language-processing-56e45c1df36d?source=rss-532d6d05dcee------2)
