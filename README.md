@@ -17,6 +17,7 @@
 
 ### 📗 Medium Article
 <!-- BLOG-POST-LIST:START -->
+- [Useful Exploratory Data Analysis packages in Python](https://medium.com/geekculture/useful-exploratory-data-analysis-packages-in-python-f54e14b79cc9?source=rss-532d6d05dcee------2)
 - [Understanding Different Statistical Test With Python Code](https://bksaini078.medium.com/understanding-different-statistical-test-with-python-code-df517683260b?source=rss-532d6d05dcee------2)
 - [Data Preprocessing and EDA for Natural Language Processing.](https://medium.com/geekculture/data-preprocessing-and-eda-for-natural-language-processing-56e45c1df36d?source=rss-532d6d05dcee------2)
 - [Machine Learning: Understanding Mean Teacher Model](https://bksaini078.medium.com/machine-learning-understanding-mean-teacher-model-ffb8d07819a4?source=rss-532d6d05dcee------2)
