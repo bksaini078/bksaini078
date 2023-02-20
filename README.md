@@ -2,7 +2,7 @@
 ### Hi there, I'm Bhupender Kumar Saini 👋
 
 ## About me !!
-
+- At Fraunhofer IAO, I work as a Machine learning and User experience researcher.
 - 👨🏻‍🎓  MSc. Web and Data Science, University of Koblenz and Landau, Germany. 
 - 🧑🏻‍💻 I’m currently learning and creating projects related to Data science and Machine Learning. Also, working on my master thesis.
 -  Professional experience in Software Testing, Prototype Developments, and Project Management.
