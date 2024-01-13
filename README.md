@@ -2,9 +2,9 @@
 ### Hi there, I'm Bhupender Kumar Saini 👋
 
 ## About me !!
-- At Fraunhofer IAO, I work as a Machine learning and User experience researcher.
+- At Fraunhofer IAO, I work as a Machine Learning and User Experience Researcher.
 - 👨🏻‍🎓  MSc. Web and Data Science, University of Koblenz and Landau, Germany. 
-- 🧑🏻‍💻 I’m currently learning and creating projects related to Data science and Machine Learning. Also, working on my master thesis.
+- 🧑🏻‍💻 My current research interest is improving user experience using Large Language Model and Generative AI technology. 
 -  Professional experience in Software Testing, Prototype Developments, and Project Management.
 - 🧑🏻‍🔬 Like experimenting,🕵️‍♂️ investigating, and 🎸 playing guitar.
 
@@ -24,7 +24,7 @@
 - [Software Security Testing Challenges and Implementation](https://bksaini078.medium.com/software-security-testing-challenges-and-implementation-5b8ea970442a?source=rss-532d6d05dcee------2)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://bksaini078.github.io/
+[website]: https://www.bksaini.com/
 [linkedin]: https://www.linkedin.com/in/bksaini078/
 [Medium]:https://bksaini078.medium.com/
 
