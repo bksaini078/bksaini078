@@ -5,7 +5,7 @@
 - At Fraunhofer IAO, I work as a Applied AI Researcher.
 - 👨🏻‍🎓  MSc. Web and Data Science, University of Koblenz and Landau, Germany. 
 - 🧑🏻‍💻 My current research interest is improving user experience using Large Language Model and Generative AI technology. 
--  Professional experience in Software Testing, Prototype Developments, and Project Management.
+-  Professional experience in Consulting, Prototype Development, and Project Management.
 - 🧑🏻‍🔬 Like experimenting,🕵️‍♂️ investigating, and 🎸 playing guitar.
 
 ### Connect with me:
