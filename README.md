@@ -21,8 +21,8 @@ My work centers on the intersection of **Generative AI** and **Behavioral Simula
   Experienced in guiding digital transformation projects from initial concept to deployment.
 
 ### Technical Stack
-* **Languages & Frameworks:** Python, PyTorch, Scikit-learn, LangChain, AutoGen.
-* **AI/ML:** Large Language Models (GPT-4, Llama, Claude), Prompt Engineering, NLP, Multi-Agent Orchestration.
+* **Languages & Frameworks:** Python, PyTorch, Scikit-learn, LangChain, AutoGen, CrewAI, Agno, OpenAI agent SDK.
+* **AI/ML:** Large Language Models, Prompt Engineering, NLP, Multi-Agent Orchestration, Context Engineering, Shared Mental Model in Human-AI team setup.
 * **Data Science:** Statistical Analysis, Data Visualization, Experimental Design.
 * **Tools:** Git, Docker, LaTeX, Project Management.
 
