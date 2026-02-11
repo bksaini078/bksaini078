@@ -3,7 +3,7 @@
 
 Applied AI Researcher at **Fraunhofer IAO** focused on bridging the gap between cutting-edge Generative AI research and human-centered applications. I specialize in developing intelligent systems that simulate human behavior, improve user experience, and solve complex enterprise challenges through Multi-Agent orchestration.
 
-[Portfolio](https://www.bksaini.com/) • [LinkedIn](https://www.linkedin.com/in/bksaini078/) • [Medium](https://bksaini078.medium.com/)
+[Portfolio](https://www.bksaini.com/) • [LinkedIn](https://www.linkedin.com/in/bksaini078/) 
 
 ---
 
@@ -21,7 +21,7 @@ My work centers on the intersection of **Generative AI** and **Behavioral Simula
   Experienced in guiding digital transformation projects from initial concept to deployment.
 
 ### Technical Stack
-* **Languages & Frameworks:** Python, PyTorch, Scikit-learn, LangChain, AutoGen, CrewAI, Agno, OpenAI agent SDK.
+* **Languages & Frameworks:** Python, LangChain, AutoGen, CrewAI, Agno, OpenAI agent SDK.
 * **AI/ML:** Large Language Models, Prompt Engineering, NLP, Multi-Agent Orchestration, Context Engineering, Shared Mental Model in Human-AI team setup.
 * **Data Science:** Statistical Analysis, Data Visualization, Experimental Design.
 * **Tools:** Git, Docker, LaTeX, Project Management.
@@ -31,8 +31,6 @@ My work centers on the intersection of **Generative AI** and **Behavioral Simula
   *University of Koblenz and Landau, Germany*
   Specialized in Language Model Robustness and Shared Gaze-Attention in online collaborative environments.
 
-### Personal Interests
-Beyond research and code, I am an investigator of complex problems, a constant experimenter with new tech, and a guitar player.
 
 ---
 *“Focused on building AI mechanisms that prioritize transparency, interpretability, and the human experience.”*
